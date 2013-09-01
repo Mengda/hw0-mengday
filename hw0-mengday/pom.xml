@@ -5,8 +5,8 @@
 	<artifactId>hw0-mengday</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com/Mengda/hw0-mengday.git</connection>
-		<developerConnection>scm:git:git@github.com/Mengda/hw0-mengday.git</developerConnection>
+		<connection>scm:git:git@github.com:Mengda/hw0-mengday.git</connection>
+		<developerConnection>scm:git:git@github.com:Mengda/hw0-mengday.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
